@@ -35,3 +35,7 @@ API para locadora de filmes
 - Configuração de CORS para dominio especifico
 - Versionamento do banco de dados com Flyway
 
+
+![oldflix](https://github.com/Ismael-r-pithan/TCC-Rental-Stores/assets/77652899/1fe8e28e-c5b5-4b63-b009-d74455f2bb31)
+
+
