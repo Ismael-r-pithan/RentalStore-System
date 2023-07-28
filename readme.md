@@ -1,6 +1,6 @@
 # OLDFLIX
 
-API para locadora de filmes
+Sistema para locadora de filmes
 
 ## 🚀 Tecnologias Utilizadas
 
