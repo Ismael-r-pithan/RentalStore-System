@@ -1,0 +1,35 @@
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.boxInputs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 567px;
+}
+
+.boxInputs input, select, option {
+    width: 100%;
+    height: 2rem;
+    border-radius: 0.5rem;
+    color: var(--secondary);
+    padding: 0.5rem;
+}
+
+.boxInputs button {
+    margin-top: 0.5rem;
+}
+
+.boxInputs textarea {
+    width: 100%;
+    height: 10rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+}
+

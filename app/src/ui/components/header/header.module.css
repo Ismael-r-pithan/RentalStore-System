@@ -1,0 +1,26 @@
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2.5rem;
+}
+
+.box nav a {
+    margin-left: 1rem;
+}
+
+.boxIcons {
+    display: flex;
+    align-items: center;
+}
+
+.boxIcons img {
+    width: 50px;
+    margin-right: 1rem;
+}
+
+.boxIcons h1 {
+    font-size: 1.5rem;
+    color: var(--yellow-100);
+}
+

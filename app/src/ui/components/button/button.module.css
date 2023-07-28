@@ -1,0 +1,14 @@
+.button {
+    border-radius: 0.5rem;
+    background-color: var(--yellow-100);
+    color: var(--secondary);
+    width: 565px;
+    height: 2rem;
+    color: var(--secondary);
+    padding: 0.5rem;
+}
+
+.button:hover {
+    transition: 0.5s;
+    background-color: var(--yellow-300);
+}

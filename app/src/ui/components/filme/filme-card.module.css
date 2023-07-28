@@ -1,0 +1,26 @@
+.box {
+    color: var(--white);
+    margin-bottom: 2rem;
+    padding: 1rem;
+    border-top: 1px outset var(--yellow-100);
+    border-radius: 0.1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.boxInfos {
+    width: 100%;
+    margin-bottom: 1.5rem;
+}
+
+
+.box h2, h3, p {
+    margin-bottom: 0.5rem;
+}
+
+.box h4 {
+    color: var(--yellow-300);
+    padding-top: 1rem;
+}
+
